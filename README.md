@@ -1,2 +1,2 @@
 # pacman_analog_clock
-Pacman Analog Clock
+Pacman Flutter Analog Clock
